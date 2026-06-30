@@ -1,0 +1,67 @@
+AJOY KUMAR PUJARI
+Bangalore, India | ajoykumarpujari@gmail.com | +91-8474875105
+
+PROFESSIONAL SUMMARY
+Senior Data Engineer with 4+ years of experience in designing, implementing, and
+optimizing data pipelines and infrastructure. Proficient in SQL, Python, cloud
+technologies, and ETL processes. Adept at working with large datasets, ensuring
+data integrity, and leveraging modern data tools to enable data-driven
+decision-making. Demonstrated ability to work in fast-paced environments and
+collaborate with cross-functional teams to deliver efficient and scalable data
+solutions.
+
+EDUCATION
+Jorhat Engineering College, Assam, IN -- Master of Computer Application (Aug 2018 - Sept 2021)
+Dibrugarh University, Assam, IN -- BSc. Information Technology (July 2015 - Aug 2018)
+
+EXPERIENCE
+
+Data Engineer, Kaizen IT Services Pvt. Ltd -- Remote (Oct 2023 - Present)
+- Designed and implemented scalable data pipelines using Azure Data Factory to
+  ingest data from various sources into Azure Data Lake Storage. Ensured data
+  security and accessibility using Azure Blob Storage and Azure SQL Database.
+- Utilized Azure Databricks with PySpark for processing large datasets,
+  performing ETL operations to transform and prepare data for analysis, and
+  integrated Hadoop for processing unstructured or semi-structured data.
+- Integrated multiple data sources, both on-premises and cloud-based, into a
+  unified data platform using Azure Data Factory.
+- Participated in Agile methodologies, including sprint planning, daily
+  stand-ups, and code reviews to ensure timely project delivery.
+
+Data Engineer, Tech Savvy Software and Security Consultancy -- Guwahati (Oct 2021 - Oct 2023)
+- Designed and implemented scalable data pipelines using Azure Data Factory to
+  ingest data from various sources into Azure Data Lake Storage. Ensured data
+  security and accessibility using Azure Blob Storage and Azure SQL Database.
+- Utilized Azure Databricks with PySpark for processing large datasets,
+  performing ETL operations to transform and prepare data for analysis, and
+  integrated Hadoop for processing unstructured or semi-structured data.
+- Integrated multiple data sources, both on-premises and cloud-based, into a
+  unified data platform using Azure Data Factory.
+- Participated in Agile methodologies, including sprint planning, daily
+  stand-ups, and code reviews to ensure timely project delivery.
+
+PROJECTS
+
+Data Engineering for different Clients
+- Developed, deployed, and maintained data pipelines, ETL processes, and data
+  integration workflows using tools like Databricks, Azure Data Lake Storage,
+  PySpark, and PowerBI.
+- Utilized strong problem-solving skills and attention to detail to identify
+  and address issues or discrepancies in the data, resulting in increased
+  client satisfaction.
+- Handled data from various data sources and various data types like CSV,
+  JSON, and Delta tables.
+- Automated data pipelines and workflows; worked on and validated retail and
+  customer data in Databricks using SQL and PySpark, conducting analysis to
+  find and resolve system issues.
+
+SKILLS & TECHNOLOGIES
+Cloud Platforms: Microsoft Azure, Azure Data Factory, Azure Synapse Analytics,
+Azure SQL Database, Azure Data Lake, Azure Databricks, Azure Blob Storage
+Databases: SQL Server, Azure SQL Database
+Big Data Technologies: Apache Spark, Databricks, Azure Synapse Analytics
+ETL Tools: Azure Data Factory
+Programming Languages: Python, SQL, PySpark
+Version Control: Git, GitHub
+
+
